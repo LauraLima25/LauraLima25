@@ -1,16 +1,28 @@
-## Hi there 👋
+# Laura Pereira de Lima
 
-<!--
-**LauraLima25/LauraLima25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Contato
+- **E-mail**: lauralima17519@gmail.com
+- **Telefone**: (11) 97565-3817
+- **Endereço**: Rua Majer Kunciski, 126, Jardim Comercial, São Paulo - SP, CEP: 05885-340
+- **LinkedIn**: [Laura Lima](https://www.linkedin.com/in/laura-lima)
 
-Here are some ideas to get you started:
+## Linguagens
+- **HTML**: 🌐
+- **CSS**: 🎨
+- **Java**: ☕
+- **Python**: 🐍
+- **Angular**: 🔵
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Objetivo Profissional
+Busco uma oportunidade de estágio na área de TI, com foco em adquirir experiência prática, aprimorar meus conhecimentos e contribuir com dedicação e aprendizado para o desenvolvimento de projetos tecnológicos.
+
+## Formação Acadêmica
+- **Graduação**: Ciência da Computação (2º semestre) - Universidade Nove de Julho (UNINOVE) - Em andamento
+- **Ensino Médio**: Maud Sá de Miranda Monteiro (Fev. 2019 - Nov. 2019)
+
+## Habilidades
+- Angular Básico  
+- Java Acadêmico  
+- HTML Acadêmico  
+- CSS Acadêmico  
+- Python Acadêmico
